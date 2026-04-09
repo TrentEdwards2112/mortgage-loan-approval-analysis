@@ -1,0 +1,1 @@
+-- SQL queries for mortgage loan approval analysis
