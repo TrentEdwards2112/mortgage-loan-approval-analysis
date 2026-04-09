@@ -3,7 +3,7 @@
 End-to-end data analytics project using SQL (MySQL), Python (Pandas), and Tableau to analyze mortgage loan approval patterns.
 
 ![Dashboard Preview](images/dashboard.png)
-*Dashboard showing approval trends by income, loan size, region, and time.*
+*Dashboard showing approval trends by income, loan size, region, and time.* 
 
 This project analyzes mortgage loan application data to identify patterns associated with loan approval outcomes.
 
