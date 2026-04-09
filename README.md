@@ -65,6 +65,7 @@ It highlights the importance of segmentation and structured analysis when evalua
 🔗 Links
 GitHub Repository: https://github.com/TrentEdwards2112/mortgage-loan-approval-analysis
 Tableau Dashboard: https://public.tableau.com/app/profile/trent.edwards/viz/MortgageLoanApprovalAnalysis_17756756057450/Dashboard1?publish=yes
+
 💡 Notes
 
 This analysis identifies associations, not causation. Approval decisions depend on many additional factors not included in the dataset.
