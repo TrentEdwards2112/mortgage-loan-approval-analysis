@@ -1,5 +1,7 @@
 Mortgage Loan Approval Analysis
 
+End-to-end data analytics project using SQL, Python (Pandas), and Tableau.
+
 This project analyzes mortgage loan application data to identify patterns and factors associated with loan approval outcomes.
 
 Using SQL and Python for data preparation and Tableau for visualization, the analysis focuses on how approval rates vary across borrower characteristics, loan size, geography, and time.
@@ -22,11 +24,14 @@ Monthly trends over time
 SQL (MySQL) – data cleaning, transformation, and analysis
 Python (Pandas) – data preparation and feature engineering
 Tableau – dashboard design and visualization
-📈 Key Findings
-Higher income levels are associated with higher approval rates
-Smaller loan sizes show higher approval likelihood
-Approval rates vary by region, with Midwest and South higher than coastal regions
-Monthly trends show mid-year dips followed by recovery
+
+## 📈 Key Findings
+
+- Higher income borrowers show significantly higher approval rates (~72.7% vs ~32.1%)
+- Smaller and medium loan sizes are associated with higher approval likelihood
+- Approval rates vary by region, with Midwest and South outperforming coastal regions
+- Monthly trends reveal mid-year dips followed by recovery
+- 
 📊 Tableau Dashboard
 
 👉 View Interactive Dashboard
@@ -73,3 +78,7 @@ Tableau Dashboard: https://public.tableau.com/app/profile/trent.edwards/viz/Mort
 This analysis identifies associations, not causation. Approval decisions depend on many additional factors not included in the dataset.
 
 Data was cleaned and transformed using Python and SQL prior to analysis.
+
+## 💡 Key Takeaway
+
+Loan approval outcomes are strongly associated with borrower income and loan size, highlighting the importance of financial capacity and risk segmentation in mortgage decision-making.
