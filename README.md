@@ -32,16 +32,17 @@ Tableau – dashboard design and visualization
 - Approval rates vary by region, with Midwest and South outperforming coastal regions
 - Monthly trends reveal mid-year dips followed by recovery
 - 
-📊 Tableau Dashboard
+## 📊 Tableau Dashboard
 
-👉 View Interactive Dashboard
+👉 [View Interactive Dashboard](https://public.tableau.com/app/profile/trent.edwards/viz/MortgageLoanApprovalAnalysis_17756756057450/Dashboard1?publish=yes)
 
 The dashboard includes:
 
-Approval Rate Over Time (monthly trend analysis)
-Approval Rate by Income Level
-Approval Rate by Loan Size
-Approval Rate by Region
+- Approval Rate Over Time (monthly trend analysis)
+- Approval Rate by Income Level
+- Approval Rate by Loan Size
+- Approval Rate by Region
+  
 🧠 Data Preparation
 
 Data was cleaned and transformed using SQL and Python:
