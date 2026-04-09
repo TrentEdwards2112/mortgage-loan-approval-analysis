@@ -6,6 +6,8 @@ Using SQL and Python for data preparation and Tableau for visualization, the ana
 
 📊 Project Overview
 
+![Dashboard Preview](images/dashboard.png)
+
 The goal of this project is to answer the question:
 
 Which borrower and loan characteristics are associated with higher or lower mortgage approval rates?
