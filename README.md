@@ -69,3 +69,5 @@ Tableau Dashboard: https://public.tableau.com/app/profile/trent.edwards/viz/Mort
 💡 Notes
 
 This analysis identifies associations, not causation. Approval decisions depend on many additional factors not included in the dataset.
+
+Data was cleaned and transformed using Python and SQL prior to analysis.
