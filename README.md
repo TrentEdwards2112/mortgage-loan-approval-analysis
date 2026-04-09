@@ -1,14 +1,13 @@
-Mortgage Loan Approval Analysis
+# Mortgage Loan Approval Analysis
 
 End-to-end data analytics project using SQL, Python (Pandas), and Tableau.
 
-This project analyzes mortgage loan application data to identify patterns and factors associated with loan approval outcomes.
+![Dashboard Preview](images/dashboard.png)
+*Dashboard showing approval trends by income, loan size, region, and time.*
+
+This project analyzes mortgage loan application data to identify patterns associated with loan approval outcomes.
 
 Using SQL and Python for data preparation and Tableau for visualization, the analysis focuses on how approval rates vary across borrower characteristics, loan size, geography, and time.
-
-📊 Project Overview
-
-![Dashboard Preview](images/dashboard.png)
 
 The goal of this project is to answer the question:
 
